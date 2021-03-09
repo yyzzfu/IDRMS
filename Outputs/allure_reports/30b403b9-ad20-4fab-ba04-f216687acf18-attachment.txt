@@ -1,0 +1,40 @@
+[32mINFO    [0m IDRMS:my_log.py:44 已刷新页面
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 主页tab标签-->点击元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'智能网关测量点')]/../../../../..")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'智能网关测量点')]/../../../../..")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'智能网关测量点')]/../../../../..")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"智能网关测量点")]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"智能网关测量点")]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"智能网关测量点")]')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 准备切换iframe
+[32mINFO    [0m IDRMS:my_log.py:44 已切换到<selenium.webdriver.remote.webelement.WebElement (session="69096358082f52d2ef2ddc640d0c9bcc", element="a8fffb79-378d-4945-a221-ebeedfd21b5d")>iframe
+[32mINFO    [0m IDRMS:my_log.py:44 已进入数据节点管理界面！！！
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机配电房')]")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机配电房')]")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机配电房')]")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//label[text()='所属智能网关：']/following-sibling::div/div//b")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//label[text()='所属智能网关：']/following-sibling::div/div//b")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//label[text()='所属智能网关：']/following-sibling::div/div//b")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机一体机')]")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机一体机')]")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机一体机')]")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//label[text()="测量点位置："]/following-sibling::div//span[text()="环境"]/..')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//label[text()="测量点位置："]/following-sibling::div//span[text()="环境"]/..')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//label[text()="测量点位置："]/following-sibling::div//span[text()="环境"]/..')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//label[text()="数据类型："]/following-sibling::div//span[text()="SF7气体"]/..')可见
+[1m[31mERROR   [0m IDRMS:my_log.py:46 等待元素:('xpath', '//label[text()="数据类型："]/following-sibling::div//span[text()="SF7气体"]/..')可见失败！
+[1m[31mERROR   [0m IDRMS:my_log.py:46 查找元素:('xpath', '//label[text()="数据类型："]/following-sibling::div//span[text()="SF7气体"]/..')失败
+[32mINFO    [0m IDRMS:my_log.py:44 截图成功，存放路径为：C:\Users\yyzz\Desktop\IDRMS\Outputs/screenshots/_2021-03-08-16-53-26.png
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//label[text()="数据类型："]/following-sibling::div//span[text()="SF7气体"]/..')
+[1m[31mERROR   [0m IDRMS:my_log.py:46 点击元素:('xpath', '//label[text()="数据类型："]/following-sibling::div//span[text()="SF7气体"]/..')失败
+[32mINFO    [0m IDRMS:my_log.py:44 截图成功，存放路径为：C:\Users\yyzz\Desktop\IDRMS\Outputs/screenshots/_2021-03-08-16-53-26.png

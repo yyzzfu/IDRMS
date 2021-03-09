@@ -1,0 +1,55 @@
+2021-03-08 17:02:09,753 - IDRMS - INFO - 日志信息：已刷新页面
+2021-03-08 17:02:09,756 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')可见
+2021-03-08 17:02:09,796 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')-->已可见，等待时长为0
+2021-03-08 17:02:09,814 - IDRMS - INFO - 日志信息：主页tab标签-->点击元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')
+2021-03-08 17:02:09,909 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'智能网关测量点')]/../../../../..")可见
+2021-03-08 17:02:09,991 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'智能网关测量点')]/../../../../..")-->已可见，等待时长为0
+2021-03-08 17:02:10,003 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'智能网关测量点')]/../../../../..")
+2021-03-08 17:02:10,076 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"智能网关告警设置")]')可见
+2021-03-08 17:02:10,636 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"智能网关告警设置")]')-->已可见，等待时长为0
+2021-03-08 17:02:10,644 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"智能网关告警设置")]')
+2021-03-08 17:02:10,698 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2021-03-08 17:02:10,731 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2021-03-08 17:02:10,741 - IDRMS - INFO - 日志信息：准备切换iframe
+2021-03-08 17:02:11,057 - IDRMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="69096358082f52d2ef2ddc640d0c9bcc", element="bfcc59b1-f2f5-4395-8626-8b1722581b70")>iframe
+2021-03-08 17:02:11,058 - IDRMS - INFO - 日志信息：已进入智能网关告警设置界面！！！
+2021-03-08 17:02:11,062 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")可见
+2021-03-08 17:02:11,473 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")-->已可见，等待时长为0
+2021-03-08 17:02:11,484 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")
+2021-03-08 17:02:12,400 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")可见
+2021-03-08 17:02:12,418 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")-->已可见，等待时长为0
+2021-03-08 17:02:12,427 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")
+2021-03-08 17:02:12,523 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机配电房')]")可见
+2021-03-08 17:02:12,550 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机配电房')]")-->已可见，等待时长为0
+2021-03-08 17:02:12,558 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机配电房')]")
+2021-03-08 17:02:12,876 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//label[text()='所属智能网关：']/following-sibling::div/div//b")可见
+2021-03-08 17:02:12,901 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//label[text()='所属智能网关：']/following-sibling::div/div//b")-->已可见，等待时长为0
+2021-03-08 17:02:12,911 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', "//label[text()='所属智能网关：']/following-sibling::div/div//b")
+2021-03-08 17:02:13,013 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机一体机')]")可见
+2021-03-08 17:02:13,037 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机一体机')]")-->已可见，等待时长为0
+2021-03-08 17:02:13,047 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机一体机')]")
+2021-03-08 17:02:13,125 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//label[text()="测量点位置："]/following-sibling::div//span[text()="环境"]/..')可见
+2021-03-08 17:02:13,157 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//label[text()="测量点位置："]/following-sibling::div//span[text()="环境"]/..')-->已可见，等待时长为0
+2021-03-08 17:02:13,165 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', '//label[text()="测量点位置："]/following-sibling::div//span[text()="环境"]/..')
+2021-03-08 17:02:13,247 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//label[text()="告警类型："]/following-sibling::div//span[text()="烟感"]/..')可见
+2021-03-08 17:02:13,269 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//label[text()="告警类型："]/following-sibling::div//span[text()="烟感"]/..')-->已可见，等待时长为0
+2021-03-08 17:02:13,317 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', '//label[text()="告警类型："]/following-sibling::div//span[text()="烟感"]/..')
+2021-03-08 17:02:13,555 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//label[text()='告警测量点：']/following-sibling::div/div//b")可见
+2021-03-08 17:02:13,586 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//label[text()='告警测量点：']/following-sibling::div/div//b")-->已可见，等待时长为0
+2021-03-08 17:02:13,593 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', "//label[text()='告警测量点：']/following-sibling::div/div//b")
+2021-03-08 17:02:13,745 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='select2-drop']/div/input")可见
+2021-03-08 17:02:13,766 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='select2-drop']/div/input")-->已可见，等待时长为0
+2021-03-08 17:02:13,778 - IDRMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='select2-drop']/div/input")进行输入操作
+2021-03-08 17:02:13,844 - IDRMS - INFO - 日志信息：在元素('xpath', "//*[@id='select2-drop']/div/input")上输入的值为-------->>>>>样机烟感2
+2021-03-08 17:02:13,845 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='select2-drop']/div/input")可见
+2021-03-08 17:02:13,867 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='select2-drop']/div/input")-->已可见，等待时长为0
+2021-03-08 17:02:13,922 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="btnSubmit" and @value="保存并返回"]')可见
+2021-03-08 17:02:13,947 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="btnSubmit" and @value="保存并返回"]')-->已可见，等待时长为0
+2021-03-08 17:02:13,955 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="btnSubmit" and @value="保存并返回"]')
+2021-03-08 17:02:14,416 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="messageBox"]')可见
+2021-03-08 17:02:14,439 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+2021-03-08 17:02:14,450 - IDRMS - INFO - 日志信息：在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+2021-03-08 17:02:14,470 - IDRMS - INFO - 日志信息：获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+保存告警设置成功
+2021-03-08 17:02:14,485 - IDRMS - INFO - 日志信息：获取提示信息成功！！！获取到的文本信息为×
+保存告警设置成功

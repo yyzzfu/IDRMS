@@ -1,0 +1,66 @@
+2021-03-08 16:42:22,921 - IDRMS - INFO - 日志信息：已刷新页面
+2021-03-08 16:42:22,925 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')可见
+2021-03-08 16:42:22,954 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')-->已可见，等待时长为0
+2021-03-08 16:42:22,968 - IDRMS - INFO - 日志信息：主页tab标签-->点击元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')
+2021-03-08 16:42:23,039 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'配电房档案 ')]/../../../../..")可见
+2021-03-08 16:42:23,074 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'配电房档案 ')]/../../../../..")-->已可见，等待时长为0
+2021-03-08 16:42:23,086 - IDRMS - INFO - 日志信息：主页-->点击元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'配电房档案 ')]/../../../../..")
+2021-03-08 16:42:23,185 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"变压器档案")]')可见
+2021-03-08 16:42:23,743 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"变压器档案")]')-->已可见，等待时长为0
+2021-03-08 16:42:23,756 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"变压器档案")]')
+2021-03-08 16:42:23,825 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2021-03-08 16:42:23,871 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2021-03-08 16:42:23,963 - IDRMS - INFO - 日志信息：准备切换iframe
+2021-03-08 16:42:24,058 - IDRMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="69096358082f52d2ef2ddc640d0c9bcc", element="a56b38a9-f439-4d35-8556-c00d31058209")>iframe
+2021-03-08 16:42:24,059 - IDRMS - INFO - 日志信息：已进入变压器档案管理界面！！！
+2021-03-08 16:42:24,059 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")可见
+2021-03-08 16:42:24,082 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")-->已可见，等待时长为0
+2021-03-08 16:42:24,093 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")
+2021-03-08 16:42:24,561 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")可见
+2021-03-08 16:42:24,600 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")-->已可见，等待时长为0
+2021-03-08 16:42:24,612 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")
+2021-03-08 16:42:24,718 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'精伦电气配电房1')]")可见
+2021-03-08 16:42:24,751 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'精伦电气配电房1')]")-->已可见，等待时长为0
+2021-03-08 16:42:24,770 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'精伦电气配电房1')]")
+2021-03-08 16:42:24,928 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='name']")可见
+2021-03-08 16:42:24,949 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='name']")-->已可见，等待时长为0
+2021-03-08 16:42:24,959 - IDRMS - INFO - 日志信息：在-->清空元素(**输入框**)：('xpath', "//*[@id='name']")中的内容
+2021-03-08 16:42:25,013 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='name']")可见
+2021-03-08 16:42:25,031 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='name']")-->已可见，等待时长为0
+2021-03-08 16:42:25,039 - IDRMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='name']")进行输入操作
+2021-03-08 16:42:25,116 - IDRMS - INFO - 日志信息：在元素('xpath', "//*[@id='name']")上输入的值为-------->>>>>变压器2
+2021-03-08 16:42:25,117 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='voltageLevelHigh']")可见
+2021-03-08 16:42:25,143 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='voltageLevelHigh']")-->已可见，等待时长为0
+2021-03-08 16:42:25,151 - IDRMS - INFO - 日志信息：在-->清空元素(**输入框**)：('xpath', "//*[@id='voltageLevelHigh']")中的内容
+2021-03-08 16:42:25,210 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='voltageLevelHigh']")可见
+2021-03-08 16:42:25,229 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='voltageLevelHigh']")-->已可见，等待时长为0
+2021-03-08 16:42:25,238 - IDRMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='voltageLevelHigh']")进行输入操作
+2021-03-08 16:42:25,318 - IDRMS - INFO - 日志信息：在元素('xpath', "//*[@id='voltageLevelHigh']")上输入的值为-------->>>>>200
+2021-03-08 16:42:25,319 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='voltageLevelLow']")可见
+2021-03-08 16:42:25,341 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='voltageLevelLow']")-->已可见，等待时长为0
+2021-03-08 16:42:25,349 - IDRMS - INFO - 日志信息：在-->清空元素(**输入框**)：('xpath', "//*[@id='voltageLevelLow']")中的内容
+2021-03-08 16:42:25,399 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='voltageLevelLow']")可见
+2021-03-08 16:42:25,417 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='voltageLevelLow']")-->已可见，等待时长为0
+2021-03-08 16:42:25,428 - IDRMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='voltageLevelLow']")进行输入操作
+2021-03-08 16:42:25,500 - IDRMS - INFO - 日志信息：在元素('xpath', "//*[@id='voltageLevelLow']")上输入的值为-------->>>>>200
+2021-03-08 16:42:25,501 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='installCapacity']")可见
+2021-03-08 16:42:25,523 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='installCapacity']")-->已可见，等待时长为0
+2021-03-08 16:42:25,532 - IDRMS - INFO - 日志信息：在-->清空元素(**输入框**)：('xpath', "//*[@id='installCapacity']")中的内容
+2021-03-08 16:42:25,585 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='installCapacity']")可见
+2021-03-08 16:42:25,604 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='installCapacity']")-->已可见，等待时长为0
+2021-03-08 16:42:25,615 - IDRMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='installCapacity']")进行输入操作
+2021-03-08 16:42:25,689 - IDRMS - INFO - 日志信息：在元素('xpath', "//*[@id='installCapacity']")上输入的值为-------->>>>>200
+2021-03-08 16:42:25,691 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='remarks']")可见
+2021-03-08 16:42:25,713 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='remarks']")-->已可见，等待时长为0
+2021-03-08 16:42:25,722 - IDRMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='remarks']")进行输入操作
+2021-03-08 16:42:25,822 - IDRMS - INFO - 日志信息：在元素('xpath', "//*[@id='remarks']")上输入的值为-------->>>>>新增的变压器2
+2021-03-08 16:42:25,824 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="btnSubmit"]')可见
+2021-03-08 16:42:25,848 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="btnSubmit"]')-->已可见，等待时长为0
+2021-03-08 16:42:25,857 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="btnSubmit"]')
+2021-03-08 16:42:26,264 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="messageBox"]')可见
+2021-03-08 16:42:26,283 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+2021-03-08 16:42:26,291 - IDRMS - INFO - 日志信息：在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+2021-03-08 16:42:26,315 - IDRMS - INFO - 日志信息：获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+保存变压器成功
+2021-03-08 16:42:26,325 - IDRMS - INFO - 日志信息：获取提示信息成功！！！获取到的文本信息为×
+保存变压器成功

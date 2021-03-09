@@ -1,0 +1,65 @@
+[32mINFO    [0m IDRMS:my_log.py:44 已刷新页面
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 主页tab标签-->点击元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'配电房档案 ')]/../../../../..")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'配电房档案 ')]/../../../../..")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 主页-->点击元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'配电房档案 ')]/../../../../..")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"监控设备")]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"监控设备")]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"监控设备")]')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 准备切换iframe
+[32mINFO    [0m IDRMS:my_log.py:44 已切换到<selenium.webdriver.remote.webelement.WebElement (session="69096358082f52d2ef2ddc640d0c9bcc", element="f6831b63-3fb0-4dd5-bc80-77e1426d6081")>iframe
+[32mINFO    [0m IDRMS:my_log.py:44 已进入监控设备管理界面！！！
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'精伦电气配电房1')]")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'精伦电气配电房1')]")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'精伦电气配电房1')]")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='name']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='name']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', "//*[@id='name']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', "//*[@id='name']")上输入的值为-------->>>>>NVR
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//label[text()="监控设备类型："]/following-sibling::div//span[text()="NVR"]/..')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//label[text()="监控设备类型："]/following-sibling::div//span[text()="NVR"]/..')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//label[text()="监控设备类型："]/following-sibling::div//span[text()="NVR"]/..')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//label[text()="网络连接方式："]/following-sibling::div//span[text()="Ip"]/..')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//label[text()="网络连接方式："]/following-sibling::div//span[text()="Ip"]/..')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//label[text()="网络连接方式："]/following-sibling::div//span[text()="Ip"]/..')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='ip']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='ip']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', "//*[@id='ip']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', "//*[@id='ip']")上输入的值为-------->>>>>172.17.46.120
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='port']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='port']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', "//*[@id='port']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', "//*[@id='port']")上输入的值为-------->>>>>80
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='loginUsername']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='loginUsername']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', "//*[@id='loginUsername']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', "//*[@id='loginUsername']")上输入的值为-------->>>>>admin
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='loginPassword']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='loginPassword']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', "//*[@id='loginPassword']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', "//*[@id='loginPassword']")上输入的值为-------->>>>>jldz600355
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='remarks']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='remarks']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', "//*[@id='remarks']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', "//*[@id='remarks']")上输入的值为-------->>>>>NVR
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="btnSubmit"]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//*[@id="btnSubmit"]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="btnSubmit"]')
+[32mINFO    [0m IDRMS:my_log.py:44 已切回到默认的iframe
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="jbox-states"]/descendant::div//button [text()="确定"]')可见
+[1m[31mERROR   [0m IDRMS:my_log.py:46 等待元素:('xpath', '//*[@id="jbox-states"]/descendant::div//button [text()="确定"]')可见失败！
+[1m[31mERROR   [0m IDRMS:my_log.py:46 查找元素:('xpath', '//*[@id="jbox-states"]/descendant::div//button [text()="确定"]')失败
+[32mINFO    [0m IDRMS:my_log.py:44 截图成功，存放路径为：C:\Users\yyzz\Desktop\IDRMS\Outputs/screenshots/_2021-03-08-16-43-30.png
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="jbox-states"]/descendant::div//button [text()="确定"]')
+[1m[31mERROR   [0m IDRMS:my_log.py:46 点击元素:('xpath', '//*[@id="jbox-states"]/descendant::div//button [text()="确定"]')失败
+[32mINFO    [0m IDRMS:my_log.py:44 截图成功，存放路径为：C:\Users\yyzz\Desktop\IDRMS\Outputs/screenshots/_2021-03-08-16-43-30.png

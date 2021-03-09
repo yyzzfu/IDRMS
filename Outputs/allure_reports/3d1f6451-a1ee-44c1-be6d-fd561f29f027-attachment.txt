@@ -1,0 +1,48 @@
+2021-03-08 16:43:00,297 - IDRMS - INFO - 日志信息：已刷新页面
+2021-03-08 16:43:00,301 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')可见
+2021-03-08 16:43:00,331 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')-->已可见，等待时长为0
+2021-03-08 16:43:00,343 - IDRMS - INFO - 日志信息：主页tab标签-->点击元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')
+2021-03-08 16:43:00,401 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'配电房档案 ')]/../../../../..")可见
+2021-03-08 16:43:00,431 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'配电房档案 ')]/../../../../..")-->已可见，等待时长为0
+2021-03-08 16:43:00,444 - IDRMS - INFO - 日志信息：主页-->点击元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'配电房档案 ')]/../../../../..")
+2021-03-08 16:43:00,532 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"开关柜档案")]')可见
+2021-03-08 16:43:01,106 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"开关柜档案")]')-->已可见，等待时长为0
+2021-03-08 16:43:01,114 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"开关柜档案")]')
+2021-03-08 16:43:01,167 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2021-03-08 16:43:01,186 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2021-03-08 16:43:01,197 - IDRMS - INFO - 日志信息：准备切换iframe
+2021-03-08 16:43:01,366 - IDRMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="69096358082f52d2ef2ddc640d0c9bcc", element="45221028-a952-4612-942d-b9db40f8a33a")>iframe
+2021-03-08 16:43:01,367 - IDRMS - INFO - 日志信息：已进入开关柜档案管理界面！！！
+2021-03-08 16:43:01,368 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")可见
+2021-03-08 16:43:01,397 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")-->已可见，等待时长为0
+2021-03-08 16:43:01,407 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")
+2021-03-08 16:43:01,746 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")可见
+2021-03-08 16:43:01,779 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")-->已可见，等待时长为0
+2021-03-08 16:43:01,794 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")
+2021-03-08 16:43:01,916 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'精伦电气配电房1')]")可见
+2021-03-08 16:43:01,943 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'精伦电气配电房1')]")-->已可见，等待时长为0
+2021-03-08 16:43:01,952 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'精伦电气配电房1')]")
+2021-03-08 16:43:02,069 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='name']")可见
+2021-03-08 16:43:02,103 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='name']")-->已可见，等待时长为0
+2021-03-08 16:43:02,115 - IDRMS - INFO - 日志信息：在-->清空元素(**输入框**)：('xpath', "//*[@id='name']")中的内容
+2021-03-08 16:43:02,165 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='name']")可见
+2021-03-08 16:43:02,195 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='name']")-->已可见，等待时长为0
+2021-03-08 16:43:02,207 - IDRMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='name']")进行输入操作
+2021-03-08 16:43:02,285 - IDRMS - INFO - 日志信息：在元素('xpath', "//*[@id='name']")上输入的值为-------->>>>>补偿柜
+2021-03-08 16:43:02,286 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//label[text()="开关柜类型："]/following-sibling::div//span[contains(text(),"补偿柜(电容柜)") ]/..')可见
+2021-03-08 16:43:02,322 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//label[text()="开关柜类型："]/following-sibling::div//span[contains(text(),"补偿柜(电容柜)") ]/..')-->已可见，等待时长为0
+2021-03-08 16:43:02,337 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', '//label[text()="开关柜类型："]/following-sibling::div//span[contains(text(),"补偿柜(电容柜)") ]/..')
+2021-03-08 16:43:02,451 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='remarks']")可见
+2021-03-08 16:43:02,478 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='remarks']")-->已可见，等待时长为0
+2021-03-08 16:43:02,488 - IDRMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='remarks']")进行输入操作
+2021-03-08 16:43:02,619 - IDRMS - INFO - 日志信息：在元素('xpath', "//*[@id='remarks']")上输入的值为-------->>>>>新建的开关柜7
+2021-03-08 16:43:02,619 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="btnSubmit"]')可见
+2021-03-08 16:43:02,647 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="btnSubmit"]')-->已可见，等待时长为0
+2021-03-08 16:43:02,660 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="btnSubmit"]')
+2021-03-08 16:43:03,672 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="messageBox"]')可见
+2021-03-08 16:43:03,697 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+2021-03-08 16:43:03,705 - IDRMS - INFO - 日志信息：在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+2021-03-08 16:43:03,722 - IDRMS - INFO - 日志信息：获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+保存开关柜成功
+2021-03-08 16:43:03,731 - IDRMS - INFO - 日志信息：获取提示信息成功！！！获取到的文本信息为×
+保存开关柜成功

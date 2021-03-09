@@ -1,0 +1,59 @@
+2021-03-08 16:41:28,256 - IDRMS - INFO - 日志信息：已刷新页面
+2021-03-08 16:41:28,260 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')可见
+2021-03-08 16:41:28,298 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')-->已可见，等待时长为0
+2021-03-08 16:41:28,310 - IDRMS - INFO - 日志信息：主页tab标签-->点击元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')
+2021-03-08 16:41:28,367 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'配电房档案 ')]/../../../../..")可见
+2021-03-08 16:41:28,403 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'配电房档案 ')]/../../../../..")-->已可见，等待时长为0
+2021-03-08 16:41:28,414 - IDRMS - INFO - 日志信息：主页-->点击元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'配电房档案 ')]/../../../../..")
+2021-03-08 16:41:28,483 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu-2"]//*[contains(text(),"配电房档案")]')可见
+2021-03-08 16:41:28,528 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu-2"]//*[contains(text(),"配电房档案")]')-->已可见，等待时长为0
+2021-03-08 16:41:28,538 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu-2"]//*[contains(text(),"配电房档案")]')
+2021-03-08 16:41:28,596 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2021-03-08 16:41:28,619 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2021-03-08 16:41:28,632 - IDRMS - INFO - 日志信息：准备切换iframe
+2021-03-08 16:41:28,906 - IDRMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="69096358082f52d2ef2ddc640d0c9bcc", element="fa7dec6a-8b89-4aff-bf37-a5551b956eaf")>iframe
+2021-03-08 16:41:28,906 - IDRMS - INFO - 日志信息：已进入配电房档案管理界面！！！
+2021-03-08 16:41:28,907 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")可见
+2021-03-08 16:41:28,936 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")-->已可见，等待时长为0
+2021-03-08 16:41:28,947 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")
+2021-03-08 16:41:29,381 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='name']")可见
+2021-03-08 16:41:29,404 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='name']")-->已可见，等待时长为0
+2021-03-08 16:41:29,413 - IDRMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='name']")进行输入操作
+2021-03-08 16:41:29,532 - IDRMS - INFO - 日志信息：在元素('xpath', "//*[@id='name']")上输入的值为-------->>>>>精伦电气配电房1
+2021-03-08 16:41:29,533 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='areaName']")可见
+2021-03-08 16:41:29,564 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='areaName']")-->已可见，等待时长为0
+2021-03-08 16:41:29,572 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='areaName']")
+2021-03-08 16:41:29,719 - IDRMS - INFO - 日志信息：已切回到默认的iframe
+2021-03-08 16:41:29,720 - IDRMS - INFO - 日志信息：准备切换iframe
+2021-03-08 16:41:29,935 - IDRMS - INFO - 日志信息：已切换到jbox-iframeiframe
+2021-03-08 16:41:30,943 - IDRMS - INFO - 日志信息：准备执行鼠标双击('xpath', "//*[@id='tree']//*[text()='湖北武汉1']")
+2021-03-08 16:41:30,945 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='tree']//*[text()='湖北武汉1']")可见
+2021-03-08 16:41:30,974 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='tree']//*[text()='湖北武汉1']")-->已可见，等待时长为0
+2021-03-08 16:41:31,445 - IDRMS - INFO - 日志信息：执行鼠标双击成功！！！
+2021-03-08 16:41:31,446 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2021-03-08 16:41:31,469 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2021-03-08 16:41:31,478 - IDRMS - INFO - 日志信息：准备切换iframe
+2021-03-08 16:41:31,493 - IDRMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="69096358082f52d2ef2ddc640d0c9bcc", element="fa7dec6a-8b89-4aff-bf37-a5551b956eaf")>iframe
+2021-03-08 16:41:31,494 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='address']")可见
+2021-03-08 16:41:31,517 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='address']")-->已可见，等待时长为0
+2021-03-08 16:41:31,525 - IDRMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='address']")进行输入操作
+2021-03-08 16:41:31,626 - IDRMS - INFO - 日志信息：在元素('xpath', "//*[@id='address']")上输入的值为-------->>>>>光谷大道70号
+2021-03-08 16:41:31,626 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='distribuitionRoomMapUrlFilePicker']/div[2]/label")可见
+2021-03-08 16:41:38,145 - IDRMS - ERROR - 日志信息：等待元素:('xpath', "//*[@id='distribuitionRoomMapUrlFilePicker']/div[2]/label")可见失败！
+2021-03-08 16:41:38,156 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='distribuitionRoomMapUrlFilePicker']/div[2]/label")
+2021-03-08 16:41:39,284 - IDRMS - INFO - 日志信息：准备上传文件，文件的路径为C:\Users\yyzz\Desktop\图片\IDRMS\布局图2.png
+2021-03-08 16:41:41,377 - IDRMS - INFO - 日志信息：文件上传成功！！！
+2021-03-08 16:41:42,391 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='remarks']")可见
+2021-03-08 16:41:42,430 - IDRMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='remarks']")-->已可见，等待时长为0
+2021-03-08 16:41:42,438 - IDRMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='remarks']")进行输入操作
+2021-03-08 16:41:42,529 - IDRMS - INFO - 日志信息：在元素('xpath', "//*[@id='remarks']")上输入的值为-------->>>>>新增的配电房1
+2021-03-08 16:41:42,530 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="btnSubmit"]')可见
+2021-03-08 16:41:42,555 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="btnSubmit"]')-->已可见，等待时长为0
+2021-03-08 16:41:42,565 - IDRMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="btnSubmit"]')
+2021-03-08 16:41:43,143 - IDRMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="messageBox"]')可见
+2021-03-08 16:41:43,165 - IDRMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+2021-03-08 16:41:43,174 - IDRMS - INFO - 日志信息：在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+2021-03-08 16:41:43,190 - IDRMS - INFO - 日志信息：获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+保存配电房成功
+2021-03-08 16:41:43,199 - IDRMS - INFO - 日志信息：获取提示信息成功！！！获取到的文本信息为×
+保存配电房成功

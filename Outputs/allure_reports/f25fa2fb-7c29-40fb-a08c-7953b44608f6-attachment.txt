@@ -1,0 +1,66 @@
+[32mINFO    [0m IDRMS:my_log.py:44 已刷新页面
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 主页tab标签-->点击元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'用户管理')]/../../../../..")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'用户管理')]/../../../../..")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 主页-->点击元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'用户管理')]/../../../../..")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"用户管理")]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"用户管理")]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"用户管理")]')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 准备切换iframe
+[32mINFO    [0m IDRMS:my_log.py:44 已切换到<selenium.webdriver.remote.webelement.WebElement (session="69096358082f52d2ef2ddc640d0c9bcc", element="6a0316f3-8105-47d8-aaa5-544f7b04f771")>iframe
+[32mINFO    [0m IDRMS:my_log.py:44 准备切换iframe
+[32mINFO    [0m IDRMS:my_log.py:44 已切换到officeContentiframe
+[32mINFO    [0m IDRMS:my_log.py:44 已进入用户管理界面！！！
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', ".//*[@id='name']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', ".//*[@id='name']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', ".//*[@id='name']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', ".//*[@id='name']")上输入的值为-------->>>>>fyq超级管理员
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', ".//*[@id='user_name']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', ".//*[@id='user_name']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', ".//*[@id='user_name']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', ".//*[@id='user_name']")上输入的值为-------->>>>>fyqtest3
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', ".//*[@id='newPassword']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', ".//*[@id='newPassword']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', ".//*[@id='newPassword']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', ".//*[@id='newPassword']")上输入的值为-------->>>>>a123456
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', ".//*[@id='confirmNewPassword']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', ".//*[@id='confirmNewPassword']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', ".//*[@id='confirmNewPassword']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', ".//*[@id='confirmNewPassword']")上输入的值为-------->>>>>a123456
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', ".//*[@id='phone']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', ".//*[@id='phone']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', ".//*[@id='phone']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', ".//*[@id='phone']")上输入的值为-------->>>>>18888888888
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//span[text()='系统管理员']/..")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//span[text()='系统管理员']/..")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//span[text()='系统管理员']/..")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//span[text()='超级管理员']/..")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//span[text()='超级管理员']/..")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//span[text()='超级管理员']/..")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='areaTree']//span[text()='精伦电气配电房1']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='areaTree']//span[text()='精伦电气配电房1']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='areaTree']//span[text()='精伦电气配电房1']")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='areaTree']//span[text()='样机配电房']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='areaTree']//span[text()='样机配电房']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='areaTree']//span[text()='样机配电房']")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='remarks']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='remarks']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', "//*[@id='remarks']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', "//*[@id='remarks']")上输入的值为-------->>>>>新建的用户3
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="btnSubmit"]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//*[@id="btnSubmit"]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="btnSubmit"]')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="messageBox"]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+[32mINFO    [0m IDRMS:my_log.py:44 获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+保存用户'fyqtest3'成功
+[32mINFO    [0m IDRMS:my_log.py:44 获取提示信息成功！！！获取到的文本信息为×
+保存用户'fyqtest3'成功

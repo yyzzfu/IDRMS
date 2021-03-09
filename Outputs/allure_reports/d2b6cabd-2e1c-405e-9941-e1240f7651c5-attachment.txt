@@ -1,0 +1,67 @@
+[32mINFO    [0m IDRMS:my_log.py:44 已刷新页面
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 主页tab标签-->点击元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'智能网关测量点')]/../../../../..")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'智能网关测量点')]/../../../../..")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'智能网关测量点')]/../../../../..")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"智能网关测量点")]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"智能网关测量点")]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="left"]//*[@id="menu-2"]//*[contains(text(),"智能网关测量点")]')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 准备切换iframe
+[32mINFO    [0m IDRMS:my_log.py:44 已切换到<selenium.webdriver.remote.webelement.WebElement (session="69096358082f52d2ef2ddc640d0c9bcc", element="694b7acd-32b3-4cb5-b6c4-74ce92cfc9b6")>iframe
+[32mINFO    [0m IDRMS:my_log.py:44 已进入数据节点管理界面！！！
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//label[text()='所属配电房：']/following-sibling::div/div//b")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机配电房')]")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机配电房')]")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机配电房')]")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//label[text()='所属智能网关：']/following-sibling::div/div//b")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//label[text()='所属智能网关：']/following-sibling::div/div//b")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//label[text()='所属智能网关：']/following-sibling::div/div//b")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机一体机')]")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机一体机')]")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机一体机')]")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//label[text()="测量点位置："]/following-sibling::div//span[text()="开关柜"]/..')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//label[text()="测量点位置："]/following-sibling::div//span[text()="开关柜"]/..')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//label[text()="测量点位置："]/following-sibling::div//span[text()="开关柜"]/..')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//label[text()='测量点所属：']/following-sibling::div/div[2]/a//b")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//label[text()='测量点所属：']/following-sibling::div/div[2]/a//b")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//label[text()='测量点所属：']/following-sibling::div/div[2]/a//b")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机补偿柜')]")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机补偿柜')]")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='select2-drop']/ul//li/div[contains(text(),'样机补偿柜')]")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//label[text()="数据类型："]/following-sibling::div//span[text()="线缆温度"]/..')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//label[text()="数据类型："]/following-sibling::div//span[text()="线缆温度"]/..')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//label[text()="数据类型："]/following-sibling::div//span[text()="线缆温度"]/..')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//label[text()="信号类型："]/following-sibling::div//span[text()="遥测"]/..')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//label[text()="信号类型："]/following-sibling::div//span[text()="遥测"]/..')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//label[text()="信号类型："]/following-sibling::div//span[text()="遥测"]/..')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='name']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='name']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', "//*[@id='name']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', "//*[@id='name']")上输入的值为-------->>>>>样机线缆温度出C
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='channelNo']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='channelNo']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', "//*[@id='channelNo']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', "//*[@id='channelNo']")上输入的值为-------->>>>>18
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='remarks']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='remarks']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', "//*[@id='remarks']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', "//*[@id='remarks']")上输入的值为-------->>>>>SAW测温1-6
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="btnSubmit" and @value="保存并返回"]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//*[@id="btnSubmit" and @value="保存并返回"]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="btnSubmit" and @value="保存并返回"]')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="messageBox"]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+[32mINFO    [0m IDRMS:my_log.py:44 获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+保存测量点成功
+[32mINFO    [0m IDRMS:my_log.py:44 获取提示信息成功！！！获取到的文本信息为×
+保存测量点成功

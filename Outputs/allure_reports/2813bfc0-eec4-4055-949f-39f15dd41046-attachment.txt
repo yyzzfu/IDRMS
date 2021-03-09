@@ -1,0 +1,59 @@
+[32mINFO    [0m IDRMS:my_log.py:44 已刷新页面
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 主页tab标签-->点击元素:('xpath', '//div[@id="jerichotab"]//div[text()="主页"]/following-sibling::div[@class="tab_close"]//a[@title="关闭"]')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'配电房档案 ')]/../../../../..")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'配电房档案 ')]/../../../../..")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 主页-->点击元素:('xpath', "//*[@id='menu-2']/div//*[contains(text(),'配电房档案 ')]/../../../../..")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="menu-2"]//*[contains(text(),"配电房档案")]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//*[@id="menu-2"]//*[contains(text(),"配电房档案")]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="menu-2"]//*[contains(text(),"配电房档案")]')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 准备切换iframe
+[32mINFO    [0m IDRMS:my_log.py:44 已切换到<selenium.webdriver.remote.webelement.WebElement (session="69096358082f52d2ef2ddc640d0c9bcc", element="cdeb04d6-4372-40a2-8c42-38e72b77eabe")>iframe
+[32mINFO    [0m IDRMS:my_log.py:44 已进入配电房档案管理界面！！！
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='searchForm']//a[text()='新增']")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='name']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='name']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', "//*[@id='name']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', "//*[@id='name']")上输入的值为-------->>>>>样机配电房
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='areaName']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='areaName']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='areaName']")
+[32mINFO    [0m IDRMS:my_log.py:44 已切回到默认的iframe
+[32mINFO    [0m IDRMS:my_log.py:44 准备切换iframe
+[32mINFO    [0m IDRMS:my_log.py:44 已切换到jbox-iframeiframe
+[32mINFO    [0m IDRMS:my_log.py:44 准备执行鼠标双击('xpath', "//*[@id='tree']//*[text()='湖北武汉2']")
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='tree']//*[text()='湖北武汉2']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='tree']//*[text()='湖北武汉2']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 执行鼠标双击成功！！！
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 准备切换iframe
+[32mINFO    [0m IDRMS:my_log.py:44 已切换到<selenium.webdriver.remote.webelement.WebElement (session="69096358082f52d2ef2ddc640d0c9bcc", element="cdeb04d6-4372-40a2-8c42-38e72b77eabe")>iframe
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='address']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='address']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', "//*[@id='address']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', "//*[@id='address']")上输入的值为-------->>>>>光谷大道71号
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='distribuitionRoomMapUrlFilePicker']/div[2]/label")可见
+[1m[31mERROR   [0m IDRMS:my_log.py:46 等待元素:('xpath', "//*[@id='distribuitionRoomMapUrlFilePicker']/div[2]/label")可见失败！
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='distribuitionRoomMapUrlFilePicker']/div[2]/label")
+[32mINFO    [0m IDRMS:my_log.py:44 准备上传文件，文件的路径为C:\Users\yyzz\Desktop\图片\IDRMS\布局图2.png
+[32mINFO    [0m IDRMS:my_log.py:44 文件上传成功！！！
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='remarks']")可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', "//*[@id='remarks']")-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在-->元素：('xpath', "//*[@id='remarks']")进行输入操作
+[32mINFO    [0m IDRMS:my_log.py:44 在元素('xpath', "//*[@id='remarks']")上输入的值为-------->>>>>新增的配电房2
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="btnSubmit"]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//*[@id="btnSubmit"]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="btnSubmit"]')
+[32mINFO    [0m IDRMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="messageBox"]')可见
+[32mINFO    [0m IDRMS:my_log.py:44 -->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+[32mINFO    [0m IDRMS:my_log.py:44 在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+[32mINFO    [0m IDRMS:my_log.py:44 获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+保存配电房成功
+[32mINFO    [0m IDRMS:my_log.py:44 获取提示信息成功！！！获取到的文本信息为×
+保存配电房成功
